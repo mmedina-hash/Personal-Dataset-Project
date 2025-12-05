@@ -1,17 +1,5 @@
-<img width="455" height="415" alt="Screen Shot 2025-12-02 at 12 43 57 PM" src="https://github.com/user-attachments/assets/ea477528-0afd-4d4d-b7a1-3e64c340f49f" />
-<img width="454" height="414" alt="Screen Shot 2025-12-02 at 12 44 52 PM" src="https://github.com/user-attachments/assets/0536e724-fb12-4dd5-950a-baab4ca085bf" />
-<img width="455" height="414" alt="Screen Shot 2025-12-02 at 12 45 25 PM" src="https://github.com/user-attachments/assets/9282279d-7b2f-478f-a099-a009018d0ef6" />
-<img width="453" height="411" alt="Screen Shot 2025-12-02 at 12 45 49 PM" src="https://github.com/user-attachments/assets/001f135b-fe37-4e16-b133-9f95cc1ca31d" />
-<img width="455" height="415" alt="Screen Shot 2025-12-02 at 12 46 22 PM" src="https://github.com/user-attachments/assets/c9143844-f6d7-4b5d-93ec-9f2a2febfe3b" />
-<img width="453" height="413" alt="Screen Shot 2025-12-02 at 12 46 50 PM" src="https://github.com/user-attachments/assets/3c41c4f9-19fc-426c-bc4f-6f00f7dd0317" />
-<img width="455" height="414" alt="Screen Shot 2025-12-02 at 12 47 56 PM" src="https://github.com/user-attachments/assets/7b8d9e4c-6bfa-4ce8-806f-9a43e0ec5e4f" />
-<img width="455" height="414" alt="Screen Shot 2025-12-02 at 12 48 23 PM" src="https://github.com/user-attachments/assets/2515a4fd-857e-4506-8ebf-5fe6f57ce66a" />
-<img width="455" height="415" alt="Screen Shot 2025-12-02 at 12 48 42 PM" src="https://github.com/user-attachments/assets/0d9aa790-48c0-4343-aca2-62e669154a07" />
-<img width="454" height="415" alt="Screen Shot 2025-12-02 at 12 48 58 PM" src="https://github.com/user-attachments/assets/416e5f4a-9117-4db4-9fa9-8f34097a86d5" />
-<img width="453" height="412" alt="Screen Shot 2025-12-02 at 12 49 20 PM" src="https://github.com/user-attachments/assets/476526ba-7cf9-4be2-8c8e-504ab39586a4" />
-<img width="455" height="414" alt="Screen Shot 2025-12-02 at 12 49 42 PM" src="https://github.com/user-attachments/assets/88520a7a-afb2-462a-ad4d-e72340b20c44" />
-<img width="455" height="414" alt="Screen Shot 2025-12-02 at 12 50 04 PM" src="https://github.com/user-attachments/assets/41a08f0c-02d0-4557-8681-5b527da35266" />
-<img width="454" height="416" alt="Screen Shot 2025-12-02 at 12 50 22 PM" src="https://github.com/user-attachments/assets/898c53aa-222c-4987-a298-3e84fac18c13" />
-<img width="455" height="413" alt="Screen Shot 2025-12-02 at 12 50 47 PM" src="https://github.com/user-attachments/assets/601123ac-36b2-4ade-9b15-0ab248298f6a" />
+
+<img width="457" height="415" alt="Screen Shot 2025-12-05 at 10 07 10 AM" src="https://github.com/user-attachments/assets/8df9d22a-5404-4072-91b3-4fa0e9c88896" />
+<img width="455" height="414" alt="Screen Shot 2025-12-05 at 10 09 53 AM" src="https://github.com/user-attachments/assets/f4186ca6-515a-4e21-af5c-845aee9b38a5" />
 
 The essential question I am looking to answer is who the top 5 players in the NHL were this past regular season. The data includes statistics on several different metrics determining the success of NHL players in the 2024-25 NHL regular season. The data comes from Quant Hockey and helps determine who the best players in the last regular season were. I filtered the data to focus on the top 50 players in points (goals + assists) throughout the past seasons since points are the most valuable metric in determining the success of a player. I then made scatterplots plotting goals, points, points per game, hits, blocked shots, and faceoff wins since those are the six most important metrics. After that, I identified the players that tended to be near the upper right of multiple scatterplots, and especially noting players that were near the top of the list in points. Based on my analysis, Nathan Mackinnon, Sidney Crosby, and Leon Draisaitl appeared to be the most standout players. Cale Makar, Nikita Kucherov, David Pastrnak, and Alex Ovechkin were also notable. 
